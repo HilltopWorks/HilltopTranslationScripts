@@ -1,3 +1,4 @@
+;Authors: _Ombra_ and SolidSnake11
 ;LATIN CHARACTER TABLE
 .org 0x800a0bd4
 	 latin_table:

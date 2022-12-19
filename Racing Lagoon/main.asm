@@ -1,3 +1,4 @@
+;Authors: _Ombra_ and SolidSnake11
 .psx
 .open "EXTRACT\SYSTEM.BIN\SYSTEM.BIN.0012", 0x8009c1d8
 .include "char.asm"
