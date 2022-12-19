@@ -1,0 +1,101 @@
+Tabacco:
+S00_M07A.PAC.232.lzss.uncomp
+
+Living Room:
+S00_M00B.PAC.232.lzss.uncomp
+
+Space:
+S07_B.PAC.232.lzss.uncomp
+
+Coffee Pot:
+S00_M01B.PAC.232.lzss.uncomp
+
+Coffee Pot Outside:
+S00_M01A.PAC.232.lzss.uncomp
+
+Obotcha games:
+S05_A.PAC.232.lzss.uncomp
+S05_D.PAC.232.lzss.uncomp
+S05_B.PAC.232.lzss.uncomp
+S05_C.PAC.232.lzss.uncomp
+
+Classroom:
+S00_M02C.PAC.232.lzss.uncomp
+
+Hakase house outside:
+S00_M00E.PAC.232.lzss.uncomp
+
+Hakase Lab:
+S01_M00C.PAC.232.lzss.uncomp.txt
+
+Principal's office
+S00_M02B.PAC.232.lzss.uncomp
+
+Go List:
+S00_M04A.PAC.232.lzss.uncomp
+S00_M04B.PAC.232.lzss.uncomp
+S00_M04C.PAC.232.lzss.uncomp
+S00_M08A.PAC.232.lzss.uncomp
+S00_M09B.PAC.232.lzss.uncomp
+S00_M05A.PAC.232.lzss.uncomp
+S00_M06A.PAC.232.lzss.uncomp
+S00_M10A.PAC.232.lzss.uncomp
+S00_M08B.PAC.232.lzss.uncomp
+S00_M02D.PAC.232.lzss.uncomp
+S00_M06B.PAC.232.lzss.uncomp
+S00_M06C.PAC.232.lzss.uncomp
+S00_M09A.PAC.232.lzss.uncomp
+S00_M11A.PAC.232.lzss.uncomp
+S00_M16A.PAC.232.lzss.uncomp
+S00_M18A.PAC.232.lzss.uncomp
+
+Staff Roll:
+STAFF.PAC.232.lzss.uncomp.txt
+
+Kinoko's
+S00_M03B.PAC.232.lzss.uncomp
+
+???:
+S00_A.PAC.232.lzss.uncomp
+S00_M15A.PAC.232.lzss.uncomp
+S00_M15B.PAC.232.lzss.uncomp
+
+Save Screen:
+S_STAGE.PAC.40.lzss.uncomp
+OPTION.PAC.0.lzss.uncomp
+
+Hot land:
+S00_M11B.PAC.232.lzss.uncomp
+
+Oosamu Land:
+S06_A.PAC.232.lzss.uncomp
+S06_E.PAC.232.lzss.uncomp
+
+Action Stage:
+S06_B.PAC.232.lzss.uncomp
+S06_C.PAC.232.lzss.uncomp
+S06_D.PAC.232.lzss.uncomp
+S08_00A.PAC.232.lzss.uncomp
+S08_10B.PAC.232.lzss.uncomp
+S08_11C.PAC.232.lzss.uncomp
+S08_20E.PAC.232.lzss.uncomp
+S08_21D.PAC.232.lzss.uncomp
+S08_22B.PAC.232.lzss.uncomp
+S08_30I.PAC.232.lzss.uncomp
+S08_31F.PAC.232.lzss.uncomp
+S08_32A.PAC.232.lzss.uncomp
+S08_40A.PAC.232.lzss.uncomp
+S08_41G.PAC.232.lzss.uncomp
+S08_42A.PAC.232.lzss.uncomp
+S08_43D.PAC.232.lzss.uncomp
+S08_50B.PAC.232.lzss.uncomp
+S08_51C.PAC.232.lzss.uncomp
+S08_52I.PAC.232.lzss.uncomp
+S08_53I.PAC.232.lzss.uncomp
+S08_60F.PAC.232.lzss.uncomp
+S08_61H.PAC.232.lzss.uncomp
+S08_62B.PAC.232.lzss.uncomp
+S08_63E.PAC.232.lzss.uncomp
+S08_70A.PAC.232.lzss.uncomp
+S08_71H.PAC.232.lzss.uncomp
+S08_72G.PAC.232.lzss.uncomp
